@@ -1,0 +1,7 @@
+{
+  "name": "07.Templating-Lab",
+  "version": "0.0.1",
+  "dependencies": {
+    "handlebars": "^4.2.0"
+  }
+}
